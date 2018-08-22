@@ -2,3 +2,4 @@ Este archivo será utilizado para emular modificaciones en el proyecto colaborati
 Tamara Martínez
 Israel Castillo 
 https://github.com/tamaramtz/Tarea_colaborativo.git
+https://github.com/8bitguy/Tarea_colaborativo.git
